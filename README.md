@@ -1,10 +1,6 @@
 # Test projects
 My collection of test projects from different companies. You can analyse my knowledge and expose it to the real job experience. Tried not to spend more than 24 hours (~3 working days), because I think it's enough to understand developer skills.
 
-## FT
-Homework to develop a sudoku solver in Java and find vulnerabilities in C code.
-
-_Keywords: Java, C_
 
 ## OR
 Homework to develop a project from scratch. I decided to learn new frameworks used in this company and created a REST API for coffee machines.
